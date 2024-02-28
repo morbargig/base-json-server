@@ -23,3 +23,10 @@ Integrating type checking into the JSON mock server enhances the developer exper
 In conclusion, incorporating type checking, particularly with TypeScript, into a JSON mock server is essential for ensuring data consistency, detecting errors early, improving code maintainability, and enhancing the overall developer experience. By leveraging TypeScript typings, developers can create robust and reliable mock servers that contribute to the success of the project development process.
 
 Therefore, it is highly recommended to prioritize type checking when using a JSON mock server, as it plays a significant role in ensuring the quality and reliability of the development workflow.
+
+## run
+`npm i && npm start`
+
+![image](https://github.com/morbargig/base-json-server/assets/51287453/07d71058-10eb-4add-b048-89050b193caa)
+![image](https://github.com/morbargig/base-json-server/assets/51287453/fd6ed350-d51e-42b8-b4a0-4f4d5af1aa55)
+
